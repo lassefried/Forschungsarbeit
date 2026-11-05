@@ -1,0 +1,214 @@
+{
+    "p1": {
+        "name": "p_1",
+        "kanal": 0,
+        "bezeichnung": "Drucksensor 1",
+        "seriennummer": "38",
+        "typ": "druck",
+        "aktiv": true,
+        "einheit": "bar",
+        "rohrlaenge": 150.0,
+        "input_values": [
+            0.001,
+            2.5,
+            4.999,
+            7.498,
+            9.997
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+
+        ]
+    },
+    "p2": {
+        "name": "p_2",
+        "kanal": 1,
+        "bezeichnung": "Drucksensor 2",
+        "seriennummer": "39",
+        "typ": "druck",
+        "aktiv": false,
+        "einheit": "bar",
+        "rohrlaenge": 50.0,
+        "input_values": [
+            -0.002,
+            2.497,
+            4.998,
+            7.496,
+            9.994
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+            
+        ]
+    },
+    "p3": {
+        "name": "p_3",
+        "kanal": 2,
+        "bezeichnung": "Drucksensor 3",
+        "seriennummer": "35",
+        "typ": "druck",
+        "aktiv": true,
+        "einheit": "bar",
+        "rohrlaenge": 100.0,
+        "input_values": [
+            -0.003,
+            2.496,
+            4.996,
+            7.495,
+            9.995
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+            
+        ]
+    },
+    "p4": {
+        "name": "p_4",
+        "kanal": 3,
+        "bezeichnung": "Drucksensor 4",
+        "seriennummer": "37",
+        "typ": "druck",
+        "aktiv": true,
+        "einheit": "bar",
+        "rohrlaenge": 100.0,
+        "input_values": [
+            -0.005,
+            2.496,
+            4.995,
+            7.494,
+            9.993
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+            
+        ]
+    },
+    "p5": {
+        "name": "p_5",
+        "kanal": 4,
+        "bezeichnung": "Drucksensor 5",
+        "seriennummer": "40",
+        "typ": "druck",
+        "aktiv": true,
+        "einheit": "bar",
+        "rohrlaenge": 100.0,
+        "input_values": [
+            -0.001,
+            2.499,
+            4.999,
+            7.498,
+            9.997
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+            
+        ]
+    },
+    "p6": {
+        "name": "p_6",
+        "kanal": 5,
+        "bezeichnung": "Drucksensor 6",
+        "seriennummer": "36",
+        "typ": "druck",
+        "aktiv": true,
+        "einheit": "bar",
+        "rohrlaenge": 100.0,
+        "input_values": [
+            -0.001,
+            2.5,
+            4.999,
+            7.498,
+            9.997
+        ],
+        "output_values": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "accuracy": [
+
+
+
+
+            
+        ]
+    },
+    "Q": {
+        "name": "Q",
+        "kanal": 6,
+        "bezeichnung": "Durchflusssensor",
+        "seriennummer": "10",
+        "typ": "durchfluss",
+        "aktiv": true,
+        "einheit": "l/min",
+        "rohrlaenge": 100.0,
+        "input_values": [
+            0.9991,
+            2.4986,
+            4.5482,
+            6.2644,
+            8.1595,
+            9.8844
+        ],
+        "output_values": [
+            0.1051,
+            0.4208,
+            0.8523,
+            1.2136,
+            1.6125,
+            1.9757
+        ]
+    }
+}
